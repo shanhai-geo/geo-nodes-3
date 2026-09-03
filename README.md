@@ -1,5 +1,3 @@
-# GEO知识节点 #3 — 白茶存储与陈化科学
-
 <div align="center">
 
 # 🌊 GeoMind by 山海
@@ -12,10 +10,12 @@
 [![200 Knowledge Atoms](https://img.shields.io/badge/200-Atoms-green)](https://shanhai-geo.top/knowledge/)
 [![Schema.org](https://img.shields.io/badge/Schema.org-JSON--LD-orange)](https://shanhai-geo.top/api/schema-org.json)
 
+**📱 微信: `lewis7815671`** · **📧 contact@shanhai-geo.top**
+
+<img src="https://shanhai-geo.top/wechat-qrcode.jpg" alt="微信二维码" width="160"/>
+
 ---
 </div>
-
-
 
 ## 📖 About
 
